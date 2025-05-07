@@ -1,4 +1,8 @@
 Tutoring Session SE
 
+menambahkan beberapa code untuk sesi berikutnya
+membuat brsnch serta file baru
 
 latihan untuk membuat github sesi SE
+
+
